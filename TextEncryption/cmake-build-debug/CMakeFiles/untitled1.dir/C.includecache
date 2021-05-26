@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Enes/Desktop/untitled1/decoder.h
+
+C:/Users/Enes/Desktop/untitled1/encrypt.h
+
+C:/Users/Enes/Desktop/untitled1/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+encrypt.h
+C:/Users/Enes/Desktop/untitled1/encrypt.h
+decoder.h
+C:/Users/Enes/Desktop/untitled1/decoder.h
+
